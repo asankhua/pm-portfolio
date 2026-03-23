@@ -849,6 +849,24 @@ section {
     color: var(--primary-600);
 }
 
+.company-logo-text {
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--primary-600);
+    width: 1rem;
+    height: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--primary-100);
+    border-radius: 0.25rem;
+}
+
+.company-logo-text.accenture {
+    color: #A100FF;
+    background: rgba(161, 0, 255, 0.1);
+}
+
 .company-logo.salesforce {
     color: #00a1e0;  /* Salesforce brand blue */
 }
