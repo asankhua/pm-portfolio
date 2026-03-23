@@ -850,11 +850,11 @@ section {
 }
 
 .company-logo.salesforce {
-    color: #00a1e0;
+    color: #00a1e0;  /* Salesforce brand blue */
 }
 
 .company-logo.accenture {
-    color: #A100FF;
+    color: #A100FF;  /* Accenture brand purple */
 }
 
 .company-tile-name {
