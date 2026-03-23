@@ -863,8 +863,8 @@ section {
 }
 
 .company-logo-text.accenture {
-    color: #A100FF;
-    background: rgba(161, 0, 255, 0.1);
+    color: #E91E8C;  /* Pink color */
+    background: rgba(233, 30, 140, 0.1);
 }
 
 .company-logo.salesforce {
