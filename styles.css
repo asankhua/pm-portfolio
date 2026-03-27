@@ -616,14 +616,13 @@ section {
 }
 
 .project-link.case-study-link {
-    background: var(--secondary-500);
-    color: var(--white);
-    border: 1px solid var(--secondary-500);
+    color: var(--secondary-500);
+    border-color: var(--secondary-200);
 }
 
-.case-study-link:hover {
-    background: var(--secondary-600);
-    border-color: var(--secondary-600);
+.project-link.case-study-link:hover {
+    background: var(--secondary-50);
+    border-color: var(--secondary-300);
 }
 
 .demo-link {
