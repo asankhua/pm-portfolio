@@ -91,7 +91,7 @@ pm-protofolio/
 ├── ARCHITECTURE.md         # Technical architecture documentation
 ├── README.md               # Project documentation (this file)
 ├── profilepic.png          # Profile image
-└── Ashish Kumar Sankhua_Resume.pdf  # Resume PDF
+└── Ashish Kumar Sankhua - Associate Product Manager Resume.pdf  # Resume PDF
 ```
 
 ---
